@@ -13,12 +13,11 @@ To evaluate the security posture within my insecure environment, I conducted mea
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
-[![Architecture Diagram][(![image](https://github.com/krzysztof-cloud/Azure-Honeynet-SOC/assets/137427572/04945068-d286-4a14-9f38-11e9516f0934)
-)](https://github.com/krzysztof-cloud/Azure-Honeynet-SOC/blob/main/architecture_before.png?raw=true)](https://github.com/krzysztof-cloud/Azure-Honeynet-SOC/blob/main/architecture_before.png?raw=true)
+https://github.com/krzysztof-cloud/Azure-Honeynet-SOC/blob/main/architecture_before.png?raw=true
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](![image](https://github.com/krzysztof-cloud/Azure-Honeynet-SOC/assets/137427572/04945068-d286-4a14-9f38-11e9516f0934)
-)
+https://github.com/krzysztof-cloud/Azure-Honeynet-SOC/blob/main/architecture_after.png?raw=true
+
 The architecture of the mini honeynet in Azure consists of the following components:
 
 - Virtual Network (VNet)
