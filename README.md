@@ -42,7 +42,7 @@ Here are some of the attack maps I've created in Sentinel to track the number of
 
 ## Metrics Before Hardening / Security Controls
 
-The following table shows the metrics we measured in our insecure environment for 24 hours:<br>
+The following table shows the metrics we measured in our insecure environment for 24 hours:<br><br>
 Start Time 2023-06-29 13:36<br>
 Stop Time 2023-06-30 13:45<br>
 
