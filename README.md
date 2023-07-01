@@ -13,8 +13,7 @@ To evaluate the security posture within my insecure environment, I conducted mea
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](![image](https://github.com/krzysztof-cloud/Azure-Honeynet-SOC/assets/137427572/04945068-d286-4a14-9f38-11e9516f0934)
-)
+![Architecture Diagram](https://github.com/krzysztof-cloud/Azure-Honeynet-SOC/assets/137427572/04945068-d286-4a14-9f38-11e9516f0934)
 
 ## Architecture After Hardening / Security Controls
 ![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
